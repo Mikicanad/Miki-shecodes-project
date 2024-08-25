@@ -13,3 +13,9 @@ h1 {
     padding: 20px;
     box-shadow: 0 2px 8px grey;
 }
+
+p{
+    text-align: center;
+    color: blueviolet;
+    font-size: 40px;
+}
